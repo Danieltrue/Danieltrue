@@ -24,6 +24,6 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-<h3>Github Stat</h3>
+<h1>Github Stat</h1>
 
 ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltrue&show_icons=true)
