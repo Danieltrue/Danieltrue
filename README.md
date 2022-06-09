@@ -26,4 +26,4 @@
 
 <h1>Github Stat</h1>
 
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltrue&show_icons=true)
+![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltrue&show_icons=true&bg_color="#000000")
